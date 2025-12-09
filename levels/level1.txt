@@ -1,0 +1,3 @@
+because the file name is - you have to use and extra ./ to start the path to file:
+
+cat ./-

@@ -1,0 +1,1 @@
+cat data.txt | tr [a-zA-Z] [n-za-mN-ZA-M]

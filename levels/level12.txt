@@ -1,0 +1,7 @@
+1- copy the initial file to the temp directory calling it data.hx
+2- use xxd -r data.hx > data.txt to get the raw data
+3- use file data.txt to get file type
+4- copy the file to data.gz or data.bz based on file type
+5- use gzip -d or bzip2 -d based on the file or extract the file if its an archive with tar -xf data.txt
+6- copy the result to 2data.txt
+7- go back to step 3

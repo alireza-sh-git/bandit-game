@@ -1,0 +1,7 @@
+1-use this command in powershell or terminal to connect to the ssh server:
+
+ssh [username]@[url] -p [port]
+
+2- read the readme file in the current directory:
+
+cat readme

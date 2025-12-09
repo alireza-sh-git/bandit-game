@@ -1,0 +1,3 @@
+use -a tag with ls to include hidden files:
+
+ls -a
