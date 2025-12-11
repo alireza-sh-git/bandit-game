@@ -1,0 +1,4 @@
+1- go to the directory
+2- cat cronjob_bandit22
+3- cat /usr/bin/cronjob_bandit22.sh
+4- cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv

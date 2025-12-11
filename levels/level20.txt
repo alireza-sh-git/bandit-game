@@ -1,0 +1,4 @@
+1- open ssh connection with 2 different terminals
+2- use nc -l 40000 on one of them to listen on port 40000
+3- use ./suconnect 40000 to connect to the port 40000 on the other terminal
+4- type the current password on the server which is listening

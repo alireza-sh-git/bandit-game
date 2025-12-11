@@ -1,0 +1,2 @@
+1- nmap localhost -p 31000-32000 -sV
+2- openssl s_client -connect localhost:31790 -ign_eof

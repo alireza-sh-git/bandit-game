@@ -1,0 +1,10 @@
+1- create a temp folder
+2- make and run bash file:
+for i in $(seq 1000 10000);
+do
+    echo "gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8 $i" >> d.txt
+done
+
+3- cat d.txt | netcat localhost 30002 >> a.txt
+
+4- cat a.txt | uniq -u
